@@ -1,5 +1,8 @@
 # Trust & Safety Content Risk Detection System
 
+## Live Demo
+https://trust-safety-risk-detection.streamlit.app
+
 ## Overview
 This project simulates a Trust & Safety system for detecting harmful online content and supporting enforcement decisions.
 
