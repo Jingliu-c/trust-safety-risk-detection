@@ -2,7 +2,5 @@
 .ipynb_checkpoints/
 .DS_Store
 .Rhistory
-.venv/
-.ipynb_checkpoints/
-.DS_Store
-.Rhistory
+__pycache__/
+*.pyc
