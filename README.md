@@ -4,7 +4,7 @@
 https://trust-safety-risk-detection.streamlit.app
 
 ## Overview
-This project simulates a Trust & Safety system for detecting harmful online content and supporting enforcement decisions.
+This dashboard demonstrates model evaluation, threshold tuning, and human-in-the-loop moderation decisions in a Trust & Safety system.
 
 Unlike standard NLP classification projects, this system focuses on:
 - Precision vs Recall tradeoffs
